@@ -1,0 +1,19 @@
+{
+  "artifacts": {
+    "markdown": {
+      "contentNegotiation": "text/markdown",
+      "pattern": "/docs-laboratorio/{route}.md"
+    },
+    "llmsFullTxt": "/docs-laboratorio/llms-full.txt",
+    "llmsTxt": "/docs-laboratorio/llms.txt"
+  },
+  "description": "Documentation powered by Blume.",
+  "generator": "blume@1.0.3",
+  "name": "Docs Laboratorio",
+  "site": null,
+  "contentUsage": {
+    "search": true,
+    "ai-input": true,
+    "ai-train": true
+  }
+}

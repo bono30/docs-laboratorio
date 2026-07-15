@@ -1,0 +1,7 @@
+# Docs Laboratorio
+
+> Documentation powered by Blume.
+
+## Docs
+
+- [Documentação do laboratório](/docs-laboratorio)
